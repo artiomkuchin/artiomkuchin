@@ -1,13 +1,9 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo15852
-Fork on GitHub4389
 <h1 align="center">Hi 👋, I'm Artiom Kuchin</h1>
 <h3 align="center">A passionate DevOps/Cloud Engineer from Dallas, Texas</h3>
 
 - 🔭 I’m currently working on [My Cloud Resume Project](artkuch.com)
 
-- 🌱 I’m currently learning **Python, JS, CI**
+- 🌱 I’m currently learning **Python, JS, CI/CD, Terraform**
 
 - 👨‍💻 All of my projects are available at [github.com/artiomkuchin](github.com/artiomkuchin)
 
