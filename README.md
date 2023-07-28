@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **www.linkedin.com/in/artiomkuchin**
 
-- 📄 Know about my experiences [artkuch.com](artkuch.com)
+- 📄 Know about my experiences [artkuch.com](https://artkuch.com)
 
 - ⚡ Fun fact **I love hiking, music, learning and experimenting**
 
