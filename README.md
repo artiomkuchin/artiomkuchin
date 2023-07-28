@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, JS, CI/CD, Terraform**
 
-- 👨‍💻 All of my projects are available at [github.com/artiomkuchin](github.com/artiomkuchin)
+- 👨‍💻 All of my projects are available at [github.com/artiomkuchin](https://github.com/artiomkuchin)
 
 - 📫 How to reach me **www.linkedin.com/in/artiomkuchin**
 
