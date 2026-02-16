@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Artiom Kuchin</h1>
-<h3 align="center">A passionate DevOps/Cloud Engineer from Dallas, Texas</h3>
-
-- 🔭 I’m currently working on modifications for [My Cloud Resume Project](https://artkuch.com)
+<h3 align="center">A DevOps/Cloud Engineer</h3>
 
 - 🌱 I’m currently learning **Python, JS, CI/CD, Terraform**
 
