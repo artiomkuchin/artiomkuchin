@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Artiom Kuchin</h1>
-<h3 align="center">A DevOps/Cloud Engineer</h3>
+<h3 align="center">A DevOps/SRE/Cloud Engineer</h3>
 
 - 👨‍💻 All of my projects are available at [github.com/artiomkuchin](https://github.com/artiomkuchin)
 
